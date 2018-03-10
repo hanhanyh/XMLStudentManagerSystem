@@ -1,0 +1,11 @@
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\bin\Debug\XMLStudentManSystem.exe.config
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\bin\Debug\XMLStudentManSystem.exe
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\bin\Debug\XMLStudentManSystem.pdb
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.csprojResolveAssemblyReference.cache
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.MainForm.resources
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.Properties.Resources.resources
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.csproj.GenerateResource.Cache
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.csproj.CoreCompileInputs.cache
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.exe
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.pdb
+E:\VSProjects\深入dotNet练习\XMLStudentManSystem\XMLStudentManSystem\obj\Debug\XMLStudentManSystem.addForm.resources
